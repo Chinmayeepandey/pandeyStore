@@ -8,7 +8,7 @@ const About = () => {
   const data = {
     name: "Pandey's Ecommerce",
   };
-
+  
   return (
     <>
       {myName}
@@ -18,4 +18,5 @@ const About = () => {
 };
 
 export default About;
+
 
